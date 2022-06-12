@@ -174,9 +174,9 @@
 (yas-global-mode)
 
 ;;-------------------------------------------------------------------------------
-;; gitignore-mode
+;; git-modes
 ;; https://github.com/magit/git-modes/
 ;; Major mode for editing .gitignore files.
 
-(use-package gitignore-mode
+(use-package git-modes
   :ensure t)
